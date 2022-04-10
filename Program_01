@@ -9,7 +9,5 @@ b=a-b; //b becomes 10
 a=a-b; //a becomes 20
 
 printf("After swapping:%d",a,b);
-
-
-
+return 0;
 }
