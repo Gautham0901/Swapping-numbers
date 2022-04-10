@@ -1,0 +1,15 @@
+#include<stdio.h>
+int main
+{
+  int a=10,b=20;
+
+//code to swap 'a' and 'b'
+a=a+b; //a becomes 30
+b=a-b; //b becomes 10
+a=a-b; //a becomes 20
+
+printf("After swapping:%d",a,b);
+
+
+
+}
